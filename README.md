@@ -37,7 +37,7 @@
 | 🎓 **Education** | **Master of Computer Applications (MCA)** \| BSc in Computer Science |
 | 🎯 **Target Roles** | **Java Backend Developer** \| **Software Development Engineer (SDE I)** \| **Full-Stack Developer** |
 | 💻 **Core Tech Stack** | **Java 17+**, **Spring Boot 3**, **REST APIs**, **Kafka**, **MongoDB**, **PostgreSQL / MySQL** |
-| 🏆 **Featured Programs**| Completed **JPMorgan Chase Advanced Software Engineering Virtual Experience** (*Midas Core*) |
+| 🏆 **Certifications** | **NPTEL Java Silver Elite**, **AWS Solutions Architecture**, **Tata Cyber Analyst**, **Deloitte Tech & Cyber** |
 | 📍 **Availability** | **Open to Full-Time, Remote & Hybrid Software Engineering Opportunities** |
 
 ---
@@ -110,6 +110,39 @@ My core focus is designing **scalable microservices**, implementing **event-driv
 
 ---
 
+## 📜 Verified Certifications & Industry Simulations
+
+<div align="center">
+
+### ☁️ Cloud, Security & Enterprise Architecture
+| Certification / Simulation | Issuer & Date | Focus Areas & Technical Competencies |
+| :--- | :--- | :--- |
+| **AWS Solutions Architecture** | ![Forage](https://img.shields.io/badge/Forage-Jul_2025-3B82F6?style=flat-square) | Scalable Cloud Architecture Design, Trade-off Analysis & AWS Cost Management |
+| **Tata Cybersecurity Analyst** | ![Forage](https://img.shields.io/badge/Forage-Nov_2025-000000?style=flat-square) | Identity & Access Management (IAM), Security Assessment & Access Controls |
+| **Deloitte Cyber Security** | ![Forage](https://img.shields.io/badge/Forage-Sep_2026-86BC25?style=flat-square) | Computer Networking Fundamentals, Web Application Security & Threat Analysis |
+| **Verizon Cloud Platform** | ![Forage](https://img.shields.io/badge/Forage-Telecom_Cloud-CD040B?style=flat-square) | Enterprise Telecom Cloud Infrastructure & Cloud Engineering Simulation |
+| **Cloud Computing Fundamentals** | ![Coyolia](https://img.shields.io/badge/Coyolia_Tech-AWS_IAM-FF9900?style=flat-square) | Core AWS Services, Cloud Deployment Models & Hands-on AWS IAM Security |
+
+### ☕ Software Engineering, Data Structures & Development
+| Certification / Course | Issuer & Date | Highlights & Core Mastery |
+| :--- | :--- | :--- |
+| **Java Programming (Silver Elite Grade)** | ![NPTEL](https://img.shields.io/badge/NPTEL-IIT_Certified-C0C0C0?style=flat-square) | Core Java, Multithreading, OOP, Collections Framework & Exception Handling |
+| **DSA With C** | ![CodeChef](https://img.shields.io/badge/CodeChef-Jan_2026-5B4636?style=flat-square) | Arrays, Linked Lists, Stacks, Queues, Trees, Sorting & Algorithmic Problem Solving |
+| **Deloitte Technology Simulation** | ![Forage](https://img.shields.io/badge/Forage-Nov_2025-86BC25?style=flat-square) | Enterprise Coding Standards, Applied Data Structures & Tech Consulting |
+| **Advanced Python** | ![CodeChef](https://img.shields.io/badge/CodeChef-Advanced_Python-3776AB?style=flat-square) | Advanced Data Structures, Problem Solving & Clean Code Optimization |
+| **Java Project Bootcamp** | ![LetsUpgrade](https://img.shields.io/badge/LetsUpgrade-Jul_2024-ED8B00?style=flat-square) | End-to-End Java Backend Development, Application Architecture & Design |
+| **React.js Frontend Bootcamp** | ![LetsUpgrade](https://img.shields.io/badge/LetsUpgrade-Jul_2024-61DAFB?style=flat-square) | React Component Architecture, State Management, Props & Hooks |
+
+### 🌟 Design & Community Leadership
+| Certification | Issuer & Date | Description |
+| :--- | :--- | :--- |
+| **Mazi Vasundhara Mitra** | ![Govt of Maharashtra](https://img.shields.io/badge/Govt_of_Maharashtra-Aug_2022-FF9933?style=flat-square) | State Government Recognition for Environmental Sustainability & Climate Action |
+| **Canva Visual Design** | ![Canva](https://img.shields.io/badge/Canva-Visual_Design-00C4CC?style=flat-square) | Design Principles, Technical Documentation Visuals & Presentations |
+
+</div>
+
+---
+
 ## 🚀 Featured Engineering Projects
 
 <table>
@@ -148,7 +181,7 @@ My core focus is designing **scalable microservices**, implementing **event-driv
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🛡️ LAN & Offline Exam Engine</h3>
-      <p align="center"><b>High-Concrency Quiz Assessment Suite</b></p>
+      <p align="center"><b>High-Concurrency Quiz Assessment Suite</b></p>
       <p>Offline-first exam engine built for labs and LAN environments supporting up to 2,000 concurrent students.</p>
       <ul>
         <li>Engineered real-time <b>Anti-Tab-Switch Monitoring</b> that auto-submits upon repeated focus violations.</li>
@@ -221,6 +254,7 @@ My core focus is designing **scalable microservices**, implementing **event-driv
   <ul>
     <li><b>Solid Core Computer Science Foundation:</b> Strong grasp of Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Operating Systems, and DBMS concepts.</li>
     <li><b>Production-Oriented Backend Focus:</b> Proven hands-on experience designing REST APIs, managing relational/NoSQL schemas, and implementing asynchronous event handling with Apache Kafka.</li>
+    <li><b>Certified Technical Competence:</b> NPTEL IIT Certified in Java (Silver Grade), AWS Solutions Architecture, Deloitte Cyber Security & Tech Consulting, and Tata Cyber Analysis.</li>
     <li><b>Full-Stack & Mobile Capability:</b> Ability to connect Spring Boot / Python backends with modern React frontend interfaces or Android Jetpack Compose mobile apps.</li>
     <li><b>Pragmatic Problem Solver:</b> Experienced in building security monitoring tools (anti-tab switch), algorithmic schedulers (greedy job sequencing), and microservice integrations.</li>
   </ul>
